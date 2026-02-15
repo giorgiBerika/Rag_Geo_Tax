@@ -35,7 +35,6 @@ st.markdown("""
         margin: 20px 0;
     }
     .source-box {
-        background-color: #fff9e6;
         padding: 15px;
         border-radius: 8px;
         border-left: 4px solid #ffa500;
