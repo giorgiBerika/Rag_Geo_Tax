@@ -28,7 +28,7 @@ st.markdown("""
         margin-bottom: 2rem;
     }
     .answer-box {
-        background-color: #f0f8ff;
+      
         padding: 20px;
         border-radius: 10px;
         border-left: 5px solid #1f77b4;
