@@ -6,6 +6,3 @@ PyPDF2
 tqdm
 requests
 beautifulsoup4
-selenium
-webdriver-manager
-EOF
